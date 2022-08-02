@@ -4,7 +4,7 @@ Currently I am working as a Full Stack Developer at Voqzi, which is where my pas
 
 #### Short Bio
 
-- 🔭 I’m currently working at [Voqzi](https://voqzi.com/)
+- 🔭 I’m currently working at [GHCBP](http://ghcbp.com/)
 - 👨‍💻 Day-time Web Developer
 - 🤖 Night-time Gamer 
 - 😎 Always Straightforward
