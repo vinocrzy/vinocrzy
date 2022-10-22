@@ -1,6 +1,6 @@
 ## Hi there, I'm Vinoth Kanna 👋
 
-Currently I am working as a Full Stack Developer at Voqzi, which is where my passion for design and Code converge. See my previous work history on LinkedIn. Outside of work I'm a movie freek. I'd love to get coffee and get to know you, so don’t hesitate to get in touch.
+Currently I am working as a Full Stack Developer at Global Healthcare Billing Partners Pvt. Ltd., which is where my passion for design and Code converge. See my previous work history on LinkedIn. Outside of work I'm a movie freek. I'd love to get coffee and get to know you, so don’t hesitate to get in touch.
 
 #### Short Bio
 
