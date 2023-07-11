@@ -9,14 +9,13 @@ Currently I am working as a Full Stack Developer at Global Healthcare Billing Pa
 - 🤖 Night-time Gamer 
 - 😎 Always Straightforward
 - 🎬 Weekend Moviefreak
-- 🐺 Wolf Pack Alpha
 
-<!-- #### Frontend Skills
+#### Frontend Skills
 
 - React Js
-- Angular
-- Next.js, Gatsby
-- Wordpress
+- Node.js
+- Next.js
+- PHP,Laravel
 - Flutter
 - React Native
 
