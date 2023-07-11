@@ -1,6 +1,6 @@
 ## Hi there, I'm Vinoth Kanna 👋
 
-Currently I am working as a Full Stack Developer at Global Healthcare Billing Partners Pvt. Ltd., which is where my passion for design and Code converge. See my previous work history on LinkedIn. Outside of work I'm a movie freek. I'd love to get coffee and get to know you, so don’t hesitate to get in touch.
+I am working as a Full Stack Developer at Global Healthcare Billing Partners Pvt. Ltd., where my passion for design and Code converge. Please take a look at my previous work history on LinkedIn. Outside of work, I'm a movie freak. I'd love to get coffee and get to know you, so don’t hesitate to contact me.
 
 #### Short Bio
 
@@ -13,18 +13,17 @@ Currently I am working as a Full Stack Developer at Global Healthcare Billing Pa
 #### Frontend Skills
 
 - React Js
-- Node.js
 - Next.js
-- PHP,Laravel
 - Flutter
 - React Native
 
 
 #### Backend Skills
 
-- PHP
+- PHP, Laravel
 - Express
+- Node.js
 - Nest js
-- Strapi -->
+- Strapi 
 
 
