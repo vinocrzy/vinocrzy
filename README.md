@@ -1,6 +1,6 @@
 ## Hi there, I'm Vinoth Kanna 👋
 
-I am working as a Full Stack Developer at Global Healthcare Billing Partners Pvt. Ltd., where my passion for design and Code converge. Please take a look at my previous work history on LinkedIn. Outside of work, I'm a movie freak. I'd love to get coffee and get to know you, so don’t hesitate to contact me.
+I'm the guy who turns caffeine into code and late-night ideas into tech magic. If you're looking for a blend of software expertise and a sprinkle of humor, you've landed in the right place. Take off your shoes (virtually, of course), grab a virtual coffee, and let's dive into the fascinating world of software development.
 
 #### Short Bio
 
