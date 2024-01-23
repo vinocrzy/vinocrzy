@@ -4,7 +4,6 @@ I am working as a Full Stack Developer at Global Healthcare Billing Partners Pvt
 
 #### Short Bio
 
-- 🔭 I’m currently working at [GHCBP](http://ghcbp.com/)
 - 👨‍💻 Day-time Web Developer
 - 🤖 Night-time Gamer 
 - 😎 Always Straightforward
